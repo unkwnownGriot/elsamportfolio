@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elsamportfolio/static/css/main.952ed3af.css",
+    "main.js": "/elsamportfolio/static/js/main.02f5d64e.js",
+    "index.html": "/elsamportfolio/index.html",
+    "main.952ed3af.css.map": "/elsamportfolio/static/css/main.952ed3af.css.map",
+    "main.02f5d64e.js.map": "/elsamportfolio/static/js/main.02f5d64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.952ed3af.css",
+    "static/js/main.02f5d64e.js"
+  ]
+}
